@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Michaelangelo Nguyen
-- 👀 I’m interested in game and app development.
-- 🌱 I’m currently learning from FreeCodeCamp and Coursera to get a job in tech.
+- 👀 I’m interested in backend development
+- 🌱 I’m currently learning from FreeCodeCamp and following a roadmap from roadmap.sh
 - 💞️ I’m looking to collaborate on any beginner projects.
 - 📫 How to reach me nguyenhuynh1948@gmail.com
 - ⚡ Fun fact: I'm 5'0 (actually 4'11")
